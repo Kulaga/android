@@ -1,0 +1,12 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:som="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.rfe.selectiononmap.MainActivity" >
+
+    <item
+        android:id="@+id/delete_circle"
+        android:title="@string/delete_circle"
+        som:showAsAction="always">
+    </item>
+
+</menu>
