@@ -47,7 +47,7 @@ public class MainActivity extends AppCompatActivity implements
 
 	@Override
 	public boolean onOptionsItemSelected(MenuItem item) {
-		if (item.getItemId() == R.id.delete_circle) {
+		if (item.getItemId() == R.id.remove_circle) {
 			this.map.clear();
 			isCircleExist = false;
 			return true;
