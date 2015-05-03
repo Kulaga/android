@@ -1,0 +1,7 @@
+<resources>
+    <declare-styleable name="MapViewComponent">
+        <attr name="stroke" format="float"/>
+        <attr name="diskColor" format="integer"/>
+        <attr name="circleColor" format="integer"/>
+    </declare-styleable>
+</resources>
